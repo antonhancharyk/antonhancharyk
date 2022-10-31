@@ -1,4 +1,4 @@
-👋 Hi, I’m @AntonGoncharik
+👋 Hi, I’m Anton Goncharik!
 
 # 💫 About Me:
 I’m interested in programming and technology. <br>I am a full stack developer and have strong knowledge in frontend and also backend.<br>I use React, Vue, Angular, Node.js and Go.<br>Now I am improving my DevOps skills.
