@@ -1,4 +1,5 @@
-👋 Hi, I’m Anton Goncharik!
+![Github Banner](banner.png)
+<div align="left">
 
 <h2 align="left">
 Where to find me: </h2>
