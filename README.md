@@ -53,6 +53,7 @@ func main() {
 </p>
 
 <h2 align="left"> 🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=AntonGoncharik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="left">
