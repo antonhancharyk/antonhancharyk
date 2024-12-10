@@ -29,6 +29,16 @@ I’m interested in programming and technology. <br>I am a full stack developer 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+<h2 align="left"> ⚙️ GitHub Analytics
+ </h2>
+
+<p align="center">
+<a href="https://github.com/antongoncharik">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antongoncharik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antongoncharik&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <h2 align="left">
 Profile Views </h2>
 
