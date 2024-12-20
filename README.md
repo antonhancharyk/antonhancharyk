@@ -4,8 +4,8 @@
 <h2 align="left">
 Where to find me: </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/antongoncharik/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&scale=2)](https://instagram.com/ant_goncharik/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/antonhancharyk/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&scale=2)](https://instagram.com/anton.hancharyk/)
 
 <h2 align="left">
 About Me </h2>
@@ -46,19 +46,19 @@ func main() {
 <h2 align="left"> ⚙️ GitHub Analytics</h2>
 
 <p align="center">
-<a href="https://github.com/antongoncharik">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antongoncharik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antongoncharik&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/antonhancharyk">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonhancharyk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonhancharyk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <h2 align="left"> 🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=AntonGoncharik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=antonhancharyk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="left">
 Profile Views </h2>
 
-![](https://komarev.com/ghpvc/?username=antongoncharik&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=antonhancharyk&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
