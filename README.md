@@ -11,7 +11,7 @@ Where to find me: </h2>
 About Me </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Anton;Full+Stack+Developer+%26;Passionate+about+Building+Projects;I+Love+Solving+Problems;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Anton;Full+Stack+Developer;Passionate+about+Building+Projects;I+Love+Solving+Problems;">
 </p>
 
 ```go
