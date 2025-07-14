@@ -1,15 +1,13 @@
 ![Github Banner](banner.png)
 <div align="left">
 
-<h2 align="left">
-Where to find me: </h2>
+# ✉️ Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/antonhancharyk/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&scale=2)](https://instagram.com/anton.hancharyk/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ntnhnchrk)
 
-<h2 align="left">
-About Me </h2>
+# 🚀 About Me
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Anton;Full+Stack+Developer;Passionate+about+Building+Projects;I+Love+Solving+Problems;">
