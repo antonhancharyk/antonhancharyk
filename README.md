@@ -25,8 +25,8 @@ type Developer struct {
 }
 func main() {
    anton := Developer{
-        Code:             []string{"Golang", "TS", "JS", "C", "Rust", "Elixir", "Lua"},
-        Interests:        []string{"Backend Development", "Frontend Development"},
+        Code:             []string{"Go", "TS", "JS", "C", "Rust"},
+        Interests:        []string{"Frontend", "Backend", "DevOps", "Blockchain", "DeFi"},
         OperatingSystems: []string{"elementary OS 8"},
         ToolsUsed:        []string{"Postman"},
         IDEs:             []string{"VS Code", "neovim"},
